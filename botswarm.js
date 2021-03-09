@@ -1,4 +1,4 @@
-
+<script language="JavaScript">
 
 var nl = getNewLine()
 
@@ -208,3 +208,4 @@ pagecode = 'import time'+nl+
 
 document.write(pagecode);
 
+</script>
